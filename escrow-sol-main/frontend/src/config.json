@@ -1,0 +1,20 @@
+{
+  "31337": {
+    "factory": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "explorerURL": "#"
+  },
+  "5": {
+    "factory": {
+      "address": "0x3e8b76475677fFfEDbc6209109aE7b4612919305"
+    },
+    "explorerURL": "https://goerli.etherscan.io"
+  },
+  "2022": {
+    "factory": {
+      "address": "0xF3b5d764a53a07770CED82Cb021d3400cB8B4dB5"
+    },
+    "explorerURL": "https://testnet.edgscan.live"
+  }
+}
